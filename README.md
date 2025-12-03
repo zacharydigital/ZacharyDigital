@@ -66,7 +66,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zacharyseo&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Zachary's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ZacharyDigital&show_icons=true&theme=minimal&hide_border=true&count_private=true" alt="Zachary's GitHub Stats" />
   <br>
   <p>📍 Based in Hangzhou, China 🇨🇳 | 🕒 Timezone: Asia/Shanghai</p>
 </div>
