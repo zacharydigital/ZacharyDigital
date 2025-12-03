@@ -2,7 +2,7 @@
   <img src="https://github.com/zacharyseo.png" width="100px" style="border-radius: 50%;">
   <h1>Hi there, I'm Zachary Zhang 👋</h1>
   
-  <h3>🚀 独立开发者 | SEO 增长顾问 | 数字营销专家</h3>
+  <h3>🚀 独立开发者 | Google SEO顾问 | 数字营销专家</h3>
   
   <p>
     我在数字营销和 Web 开发领域拥有超过 10 年的经验。<br>
