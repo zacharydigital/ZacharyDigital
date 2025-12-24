@@ -10,16 +10,16 @@
   </p>
 
   <p>
-    <a href="https://x.com/ZacharChang" target="_blank">
+    <a href="https://x.com/zacharyzdigital" target="_blank">
       <img src="https://img.shields.io/badge/X (Twitter)-Follow-black?style=for-the-badge&logo=x" alt="Twitter">
     </a>
-    <a href="https://linkedin.com/in/zacharyseo" target="_blank">
+    <a href="https://www.linkedin.com/in/zacharydigital/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
     </a>
-    <a href="https://aiseopilot.com" target="_blank">
+    <a href="https://www.aiwpgo.com" target="_blank">
       <img src="https://img.shields.io/badge/Website-智搜出海-success?style=for-the-badge&logo=google-chrome" alt="Website">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:zachary@aiwpgo.com">
       <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email">
     </a>
   </p>
