@@ -39,7 +39,7 @@
 | ✅ **网站变现咨询** (AdSense / Affiliate) | ✅ **服务器运维与部署** (Docker / VPS /网站速度性能优化 ) |
 | ✅ **Google Ads广告运营** (落地页设计 & CTR和CRO优化 / 推广投放策略 ） | ✅ **AI 智能体知识库定制** (AI Agents / AI workflow) |
 
-> 💡 **寻找合作？** 无论是 SEO 诊断还是定制开发工具，欢迎通过 [X (Twitter)](https://x.com/ZacharChang) 私信或邮件联系我。
+> 💡 **寻找合作？** 无论是 SEO 诊断还是外贸独立站定制开发工具，欢迎通过 [X (Twitter)](https://x.com/ZacharChang) 私信或邮件联系我。
 
 ---
 
