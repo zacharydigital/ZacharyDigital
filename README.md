@@ -6,7 +6,7 @@
   
   <p>
     数字营销和 Web 开发领域拥有超过 10 年的经验。<br>
-    专注于帮助企业和独立创作者通过 <b>Google SEO</b> 和 <b>技术驱动的营销策略</b> 实现全球流量增长。
+    专注于帮助企业和独立创作者通过 <b>Google SEO</b> 和 <b>技术驱动的数字营销策略</b> 实现全球流量增长。
   </p>
 
   <p>
@@ -33,10 +33,10 @@
 
 | 🚀 **流量增长 (SEO & Growth)** | 💻 **技术开发 (Web & Tools)** |
 | :--- | :--- |
-| ✅ **Google SEO 全案咨询** (E-E-A-T 策略) | ✅ **高性能网站开发** (Next.js / WordPress) |
+| ✅ **Google SEO 全案咨询** (E-E-A-T 策略) | ✅ **高性能网站开发** (Next.js / WordPress /shopify) |
 | ✅ **技术 SEO 审计** (Technical SEO Audit) | ✅ **SEO 自动化工具定制** (Python 脚本开发) |
-| ✅ **关键词策略与内容规划** | ✅ **外贸独立站搭建** (Shopify / WooCommerce) |
-| ✅ **网站变现咨询** (AdSense / Affiliate) | ✅ **服务器运维与部署** (Docker / VPS 面板) |
+| ✅ **关键词策略与内容规划** | ✅ **外贸独立站搭建** (Shopify / WooCommerce / Wix) |
+| ✅ **网站变现咨询** (AdSense / Affiliate) | ✅ **服务器运维与部署** (Docker / VPS /网站速度性能优化) |
 
 > 💡 **寻找合作？** 无论是 SEO 诊断还是定制开发工具，欢迎通过 [X (Twitter)](https://x.com/ZacharChang) 私信或邮件联系我。
 
