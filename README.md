@@ -29,14 +29,15 @@
 
 ### 💼 Services & Solutions (商业服务)
 
-我为跨境电商、外贸企业及独立开发者提供以下专业服务：
+为外贸品牌出海企业、跨境电商独立站及小型创业者提供以下专业服务：
 
 | 🚀 **流量增长 (SEO & Growth)** | 💻 **技术开发 (Web & Tools)** |
 | :--- | :--- |
-| ✅ **Google SEO 全案咨询** (E-E-A-T 策略) | ✅ **高性能网站开发** (Next.js / WordPress /shopify) |
+| ✅ **Google SEO 全案咨询** (E-E-A-T 策略) | ✅ **高性能网站定制开发** (Next.js / WordPress /shopify) |
 | ✅ **技术 SEO 审计** (Technical SEO Audit) | ✅ **SEO 自动化工具定制** (Python 脚本开发) |
-| ✅ **关键词策略与内容规划** | ✅ **外贸独立站搭建** (Shopify / WooCommerce / Wix) |
-| ✅ **网站变现咨询** (AdSense / Affiliate) | ✅ **服务器运维与部署** (Docker / VPS /网站速度性能优化) |
+| ✅ **关键词策略与内容规划** | ✅ **高转化外贸独立站搭建** (WordPress / Shopify / WooCommerce / Wix) |
+| ✅ **网站变现咨询** (AdSense / Affiliate) | ✅ **服务器运维与部署** (Docker& Kubernetes 集群/ VPS / 网站速度性能优化 ) |
+| ✅ **Google Ads广告运营** (落地页设计& CTR和CRO优化 / 推广投放策略 ） | ✅ **AI 智能体知识库定制** (AI Agents / AI workflow) |
 
 > 💡 **寻找合作？** 无论是 SEO 诊断还是定制开发工具，欢迎通过 [X (Twitter)](https://x.com/ZacharChang) 私信或邮件联系我。
 
