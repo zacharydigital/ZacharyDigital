@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://github.com/zacharyseo.png](https://2.gravatar.com/avatar/46052864e50a2f81c20f735ebfebe2086e13c3fa3b777aa3a12f5cd122ba8302?size=512&d=initials)" width="100px" style="border-radius: 50%;">
+  <img src="https://2.gravatar.com/avatar/46052864e50a2f81c20f735ebfebe2086e13c3fa3b777aa3a12f5cd122ba8302?size=512&d=initials" width="100px" style="border-radius: 50%;">
   <h1>Hi there, I'm Zachary Zhang 👋</h1>
   
   <h3>🚀 独立开发者 | Google SEO顾问 | 数字营销专家</h3>
