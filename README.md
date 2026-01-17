@@ -2,11 +2,11 @@
   <img src="https://2.gravatar.com/avatar/46052864e50a2f81c20f735ebfebe2086e13c3fa3b777aa3a12f5cd122ba8302?size=512&d=initials" width="100px" style="border-radius: 50%;">
   <h1>Hi there, I'm Zachary Zhang 👋</h1>
   
-  <h3>🚀 独立开发者 | Google SEO顾问 | 数字营销专家</h3>
+  <h3>🚀 独立开发者 | Google SEO | 数字营销</h3>
   
   <p>
-    数字营销和 Web 开发领域 10 年的经验。<br>
-    专注外贸企业和小型创业者通过 <b>Google SEO</b> 和 <b>技术驱动的数字营销策略</b> 实现全球流量增长。
+    数字营销和Web开发领域 10 年的经验。<br>
+    专注外贸企业和小型创业者通过 <b>Google SEO/GEO</b> 和 <b>技术驱动的数字营销策略</b> 实现全球流量和业务目标增长。
   </p>
 
   <p>
